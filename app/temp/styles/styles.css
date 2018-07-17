@@ -346,7 +346,6 @@ template {
 body {
    font-family: 'Roboto', sans-serif;
    color: #333;
-
 }
 
 img {
@@ -697,6 +696,12 @@ a {
          margin-bottom: 0;
       }
 
+      .row__large-1 {
+         float: left;
+         width: 8.33%;
+         text-align: center;
+      }
+
       .row__large-4 {
          float: left;
          width: 33.33%;
@@ -718,6 +723,13 @@ a {
 
       .row__large-8--smaller {
          width: 63%;
+      }
+
+      .row__large-11 {
+         float: left;
+         width: 91.66%;
+         text-align: center;
+         background-color: #333;
       }
    }
 

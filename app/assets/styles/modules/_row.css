@@ -70,6 +70,12 @@
          margin-bottom: 0;
       }
 
+      &__large-1 {
+         float: left;
+         width: 8.33%;
+         text-align: center;
+      }
+
       &__large-4 {
          float: left;
          width: 33.33%;
@@ -91,6 +97,13 @@
 
       &__large-8--smaller {
          width: 63%;
+      }
+
+      &__large-11 {
+         float: left;
+         width: 91.66%;
+         text-align: center;
+         background-color: #333;
       }
    }
 
