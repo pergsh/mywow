@@ -702,6 +702,13 @@ a {
          text-align: center;
       }
 
+      .row__large-2 {
+         float: left;
+         width: 16.66%;
+         text-align: center;
+         background-color: #000;
+      }
+
       .row__large-4 {
          float: left;
          width: 33.33%;
@@ -723,6 +730,13 @@ a {
 
       .row__large-8--smaller {
          width: 63%;
+      }
+
+      .row__large-10 {
+         float: left;
+         width: 83.33%;
+         text-align: center;
+         background-color: #333;
       }
 
       .row__large-11 {
